@@ -1,0 +1,9 @@
+librosa==0.10.1
+matplotlib==3.7.1
+numpy==1.23.5
+soundfile==0.12.1
+speechrecognition==3.10.0
+langid==1.1.6
+noisereduce==2.0.1
+torch==2.1.0
+ipython==8.12.2
